@@ -22,10 +22,10 @@ Consumers will be clients in need of a submittable form that can be configured t
 
 [Capabilities are documented here](./docs/capabilities.md)
 
-## System Architecture
-
-See diagram below
-
 ## Features
 
 [Features are documented here](./docs/features.md)
+
+## System Architecture
+
+[System architecture is documented here](./docs/system-architecture.md)

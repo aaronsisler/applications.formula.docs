@@ -1,10 +1,11 @@
 # Features
 
 - UI
-  - User will authenticate using Google OAuth 2.0
+  - Admin will authenticate using Google OAuth 2.0
   - Admin can create a tenant
   - Admin can create a manager
   - Admin can add a manager to tenant
+  - Manager will authenticate using Google OAuth 2.0
   - Manager can create an application for a tenant
   - Manager can create a common input for tenant
   - Manager can create a custom input for a given application

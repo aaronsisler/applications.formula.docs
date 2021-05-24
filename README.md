@@ -1,4 +1,4 @@
-# Roadmap: Formula
+# Formula: Docs
 
 ## Strategy
 

@@ -17,14 +17,14 @@
 
 ## [API](#api)
 
-- Validate OAuth token
-- Create user from OAuth token
+- Authenticate OAuth token
 - Create a tenant
+- Create an admin
 - Create a manager
 - Assign manager to a tenant
 - Create application
-- Create a common input at tenant level
-- Create a custom input at application level
+- Create a common input
+- Create a custom input
 - Create applicant
 - Email photo identification
 - View list of applications
